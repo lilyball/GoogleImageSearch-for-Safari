@@ -26,7 +26,7 @@ function validateNode(userInfo) {
     if (userInfo.width < MAX_SIZE || userInfo.height < MAX_SIZE) {
         return false
     }
-    if (!userInfo.url || userInfo.url.substring(0,7) != 'http://') {
+    if (!userInfo.url || userInfo.url.match(/^https?:\/\//) === null) {
         return false
     }
     return true

@@ -19,7 +19,7 @@ function validateHandler(event) {
 }
 
 function validateNode(userInfo) {
-    const MAX_SIZE = 30
+    const MIN_SIZE = 2
     if (userInfo.name != "IMG") {
         return false
     }

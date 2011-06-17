@@ -57,7 +57,7 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>http://github.com/kballard/GoogleImageSearch-for-Safari/raw/master/update.plist</string>
+	<string>https://raw.github.com/kballard/GoogleImageSearch-for-Safari/master/update.plist</string>
 	<key>Website</key>
 	<string>https://github.com/kballard/GoogleImageSearch-for-Safari</string>
 </dict>

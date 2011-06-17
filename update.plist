@@ -10,11 +10,11 @@
 			<key>Developer Identifier</key>
 			<string>49Q455H8H7</string>
 			<key>CFBundleShortVersionString</key>
-			<string>1.0</string>
+			<string>1.0.1</string>
 			<key>CFBundleVersion</key>
 			<string>2</string>
 			<key>URL</key>
-			<string>http://github.com/downloads/kballard/GoogleImageSearch-for-Safari/GoogleImageSearch_1.0.safariextz</string>
+			<string>https://github.com/downloads/kballard/GoogleImageSearch-for-Safari/GoogleImageSearch_1.0.1.safariextz</string>
 		</dict>
 	</array>
 </dict>
